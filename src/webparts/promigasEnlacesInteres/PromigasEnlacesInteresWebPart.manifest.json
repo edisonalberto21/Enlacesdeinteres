@@ -1,0 +1,22 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "44d2e973-9cb9-4061-bea7-87d78b771900",
+  "alias": "PromigasEnlacesInteresWebPart",
+  "componentType": "WebPart",
+
+  "version": "*",
+  "manifestVersion": 2,
+
+  "requiresCustomScript": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70", 
+    "group": { "default": "Other" },
+    "title": { "default": "Enlaces de Int" },
+    "description": { "default": "PromigasEnlacesInteres description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "PromigasEnlacesInteres"
+    }
+  }]
+}

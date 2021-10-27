@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "promigas-enlaces-interes",
+    "libraryId": "62743617-da86-44d1-9d31-d31caa839d21",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

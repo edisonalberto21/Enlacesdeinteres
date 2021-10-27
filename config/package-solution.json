@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "promigas-enlaces-interes-client-side-solution",
+    "id": "62743617-da86-44d1-9d31-d31caa839d21",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/promigas-enlaces-interes.sppkg"
+  }
+}
